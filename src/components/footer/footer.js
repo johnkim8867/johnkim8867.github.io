@@ -96,7 +96,7 @@ const Footer = () => (
             </Row>
       <div className={styles.spaceingblack}></div>
         <p className={styles.description}>
-            HILLODESIGN 2022
+            John Kim 2022
         </p>
 
         <p className={styles.description}>

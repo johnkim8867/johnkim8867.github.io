@@ -98,7 +98,7 @@ function MainNav() {
           <a href="/">
                 <Navbar.Brand className={styles.logo}>
                 <Image src={logo} fluid />
-                <h5 className={styles.test1title}>HILLODESIGN</h5>
+                <h5 className={styles.test1title}>JOHNKIM</h5>
 
                 </Navbar.Brand>
               </a>
