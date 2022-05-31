@@ -38,38 +38,20 @@ const Footer = () => (
   <ScrollToTop>
     <>
     <Container className={styles.footerBackground}>
-        {routes.map(({ path, Component }) => (
-        <Route key={path} exact path={path}>
-          {({ match }) => (
-            <CSSTransition
-              in={match != null}
-              timeout={300}
-              classNames="page"
-              unmountOnExit
-            >
-              <div className="page">
-                <Component />
-              </div>
-            </CSSTransition>
-          )}
-        </Route>
-        ))}
+
         <Container className={styles.navbar}>
           <Container className={styles.paddingtop}>
-              {routes.map(route => (
-                <Nav.Link 
-                eventKey="1" as={Link}
-                className={styles.navtextcss}
-                  key={route.path}
-                  as={NavLink}
-                  to={route.path}
-                  activeClassName="active"
-                  exact
-                >
-                  {route.name}
-                </Nav.Link>
-              ))}
-          <div className={styles.spaceingblack}></div>
+             
+
+
+            <a href="https://hillodesign.com/ebook">
+      <p className={styles.descriptionunderline}>
+      User Interface and User Experience Design Handbook
+        </p>
+                  </a>
+
+
+                  <div className={styles.spaceingblack}></div>
             <Row className="justify-content-center">
               <Row className={styles.socialrow}>
                 <Col xs={3} md={3} className={styles.centericon}>
@@ -94,6 +76,7 @@ const Footer = () => (
                 </Col>
               </Row>
             </Row>
+
       <div className={styles.spaceingblack}></div>
         <p className={styles.description}>
             John Kim 2022
