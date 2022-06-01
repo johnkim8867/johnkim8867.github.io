@@ -45,31 +45,31 @@ const Footer = () => (
 
           <a href="https://johnkim8867.github.io/portfoliov1/2015-2016_industrialdesign_illustration_user_interface_internship/index.html">
       <p className={styles.descriptionunderline}>
-      2015-2016_industrialdesign_illustration_user_interface_internship
+      2015-2016 Industrial Design Illustration User Interface Internship
         </p>
                   </a>
 
                   <a href="https://johnkim8867.github.io/portfoliov1/2016-2017__UI_graphic_freelance/index.html">
       <p className={styles.descriptionunderline}>
-      2016-2017__UI_graphic_freelance
+      2016-2017 UI Graphic Freelance
         </p>
                   </a>
 
                   <a href="https://johnkim8867.github.io/portfoliov1/2017-2019_user_interface_freelance/index.html">
       <p className={styles.descriptionunderline}>
-      2017-2019_user_interface_freelance
+      2017-2019 User Interface Freelance
         </p>
                   </a>
 
                   <a href="https://johnkim8867.github.io/portfoliov1/2020-2021_cca/index.html">
       <p className={styles.descriptionunderline}>
-      2020-2021_cca
+      2020-2021 CCA Interaction Design
         </p>
                   </a>
 
                   <a href="https://johnkim8867.github.io/portfoliov1/2020-2022_user_interface_freelance/index.html">
       <p className={styles.descriptionunderline}>
-      2020-2022_user_interface_freelance
+      2020-2022 User Interface Freelance
         </p>
                   </a>
 
