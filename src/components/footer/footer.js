@@ -43,8 +43,40 @@ const Footer = () => (
           <Container className={styles.paddingtop}>
              
 
+          <a href="https://johnkim8867.github.io/portfoliov1/2015-2016_industrialdesign_illustration_user_interface_internship/index.html">
+      <p className={styles.descriptionunderline}>
+      2015-2016_industrialdesign_illustration_user_interface_internship
+        </p>
+                  </a>
 
-            <a href="https://hillodesign.com/ebook">
+                  <a href="https://johnkim8867.github.io/portfoliov1/2016-2017__UI_graphic_freelance/index.html">
+      <p className={styles.descriptionunderline}>
+      2016-2017__UI_graphic_freelance
+        </p>
+                  </a>
+
+                  <a href="https://johnkim8867.github.io/portfoliov1/2017-2019_user_interface_freelance/index.html">
+      <p className={styles.descriptionunderline}>
+      2017-2019_user_interface_freelance
+        </p>
+                  </a>
+
+                  <a href="https://johnkim8867.github.io/portfoliov1/2020-2021_cca/index.html">
+      <p className={styles.descriptionunderline}>
+      2020-2021_cca
+        </p>
+                  </a>
+
+                  <a href="https://johnkim8867.github.io/portfoliov1/2020-2022_user_interface_freelance/index.html">
+      <p className={styles.descriptionunderline}>
+      2020-2022_user_interface_freelance
+        </p>
+                  </a>
+
+
+
+
+            <a href="https://johnkim8867.github.io/ebook">
       <p className={styles.descriptionunderline}>
       User Interface and User Experience Design Handbook
         </p>
